@@ -15,10 +15,11 @@ img[alt$="center"] {
     max-width: 100%;
     height: auto;
     margin: auto;
-    padding: 100px 0;
+    padding: 0 0;
     float: none !important;
 }
 
 section {
     font-size: 30px;
+    justify-content: start;
 }
