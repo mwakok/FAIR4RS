@@ -57,15 +57,15 @@ or for a research purpose.
 
 # **FAIR for Research Software**
 
-**Findable:** registry (Citation File)
+**Findable** 
 
-**Accessible:** publishing/archiving (GitHub, Zenodo)
+**Accessible** 
 
-**Interoperable:** integration with other software/hardware (containerization, dependencies)
+**Interoperable**
 
-**Reusable:** software quality, documentation, testing, modular coding, Continuous Integration, ...
+**Reusable** 
 
-*All quite recent:*
+*All quite recent developments:*
 [*14 October 2022 - Introducing the FAIR principles for research software*](https://www.nature.com/articles/s41597-022-01710-x)
 
 ---
@@ -75,9 +75,9 @@ or for a research purpose.
 >reproducibility refers to the ability of a researcher to **duplicate the results** of a prior study using the same materials as were used by the original investigator. That is, a second researcher might use the same raw data to build the same analysis files and implement the same statistical analysis in an attempt to yield the same results. Reproducibility is a **minimum necessary condition** for a finding to be believable and informative.
 _U.S. National Science Foundation (NSF) subcommittee on replicability in science_
 
----
+<!-- ---
 
-![height:550px center](./images/reproducible-definition-grid.svg)
+![height:550px center](./images/reproducible-definition-grid.svg) -->
 
 ---
 
@@ -107,13 +107,13 @@ An SMP makes explicit what research software does, who it is for, what the outpu
 - Explain why developing new software is necessary
 - Make the research software reusable and sustainable
 - Plan for necessary resources
-- Allow for verification of work that went into software implementation
+- Allow for evaluation of work that went into software implementation (funders, community)
 
-Ideally, an SMP should be draft at the beginning of a research project, but can be equally valuable for existing projects.
+Ideally, an SMP should be drafted at the beginning of a research project, but can be equally valuable for existing projects.
 
 --- 
 
-## Core requirements for an SMP
+## Core components of an SMP
 
 **Purpose**
 What is the current reason or expected end-use for developing 
@@ -142,11 +142,20 @@ This software’s functionality is useful to researchers both in and outside the
 
 ---
 
-![center height:600px](./images/SMP_topics.png)
+## SMP's and FAIR4RS
+
+**SMP** 
+high level project overview with focus on management and maintencance
+
+**FAIR principles** 
+translate requirements to practical implementation
+
+![bg right height:600px](./images/SMP_topics.png)
 
 ---
+
 # **How do I get started?**
 
-See assignment 3
+Go through the assignments
 
-:information_source: Don’t worry if you can’t fill all the topics, you can iterate over this draft as we move along the program based on the input from the seminars.
+:information_source: Don’t worry if you can’t answer all the questions, you can iterate over this draft as we move along through program.
