@@ -29,7 +29,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 # An all too common problem...
 
-![height:400](images/research_comic_phd.gif)
+![height:400](img/research_comic_phd.gif)
 
 _Remember, your past self can also be the previous developer..._
 
@@ -77,7 +77,7 @@ _U.S. National Science Foundation (NSF) subcommittee on replicability in science
 
 <!-- ---
 
-![height:550px center](./images/reproducible-definition-grid.svg) -->
+![height:550px center](./img/reproducible-definition-grid.svg) -->
 
 ---
 
@@ -150,7 +150,7 @@ high level project overview with focus on management and maintencance
 **FAIR principles** 
 translate requirements to practical implementation
 
-![bg right height:600px](./images/SMP_topics.png)
+![bg right height:600px](./img/SMP_topics.png)
 
 ---
 
