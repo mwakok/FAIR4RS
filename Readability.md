@@ -13,7 +13,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 >Code is for computer, comments are for humans.
 
-Who agrees with this statement?
+Do you agree with this statement?
 
 ---
 
