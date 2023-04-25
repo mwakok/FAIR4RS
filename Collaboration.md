@@ -12,7 +12,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 **Steps**
 - Define your collaboration needs
-- Define your workflow
+- Define your contribution workflow
 - Document your workflow
 
 ---
@@ -43,7 +43,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 - You may need a `develop` branch for active development
 - Many [branching models](https://coderefinery.github.io/git-branch-design/05-branching-models/) exist.
 
-In these slides, we will introduce the GitFlow branching model.
+You can use the branching model to define a branch based workflow for your repositories. In these slides, we will introduce the GitFlow branching model.
 
 ---
 
@@ -101,4 +101,3 @@ In these slides, we will introduce the GitFlow branching model.
 ---
 
 ![bg h:700](img/van_driessen.png)
-
